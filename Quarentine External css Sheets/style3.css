@@ -1,0 +1,74 @@
+nav {
+font-family: "Brush Script MT", "Courier New", monospace;
+border-color: white;
+border-radius: 20px;
+}
+table {
+    margin: 0 auto;
+    background-color: #8fd420;
+    border-radius: 270px 270px;
+    padding: : 50px;
+    font-family: "copperplate", "Courier New", monospace;
+    color: white;
+    word-spacing: 50px;
+  }
+  a:link, a:visited {
+        background-color: #5f8d15 ;
+        color: #f6fced;
+        padding: 25px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        border-radius: 360px;
+
+      }
+  a:hover, a:active {
+        background-color: #a9e44a;
+  }
+  img {
+    border-radius: 360px;
+    border-color: #7fbc1c;
+  }
+footer {
+  padding: 50px;
+  text-align: right;
+}
+small {
+  background-color: #a9e44a;
+  border-radius: 270px 270px;
+  padding: 40px;
+  text-align: right;
+  font-family: "Brush Script MT", "Courier New", monospace;
+  color: #39550d
+}
+h1 {
+  background-color: #a9e44a;
+  border-radius: 360px 360px;
+  padding: 30px;
+  text-align: center;
+  font-family: "Lucida Handwriting", "Lucida Handwriting", monospace;
+  font-size: 60px;
+  color: #39550d;
+  text-shadow: 2px 2px #f6fced;
+}
+h3 {
+  word-spacing: 10px;
+  padding-left: 20px
+  font-family: "Brush Script MT", "Courier New", monospace;
+}
+body {
+  background-color:#e2f6c3;
+  border-radius: 360px
+}
+p {
+  background-color: #f6fced;
+  padding: 20px;
+  border-radius: 360px;
+  color: #4d7211;
+}
+h2 {
+  font-family: "Lucida Handwriting", "Lucida Handwriting", monospace;
+  font-size: 35px;
+  color: #4d7211;
+  text-shadow: 2px 2px #f6fced;
+}

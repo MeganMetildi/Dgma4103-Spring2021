@@ -1,0 +1,73 @@
+
+nav {
+font-family: serif;
+border-color: red;
+border-radius: 20px;
+text-align: center;
+}
+a:link, a:visited {
+      background-color: #5d6ebd;
+      color: #f3f4fa;
+      padding: 13px 22px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      border-radius: 5px 25px;
+    }
+a:hover, a:active {
+      background-color: #aeb7de;
+}
+table {
+    margin: 0 auto;
+    background-color: #5d6ebd;
+    border-radius: 20px;
+    padding: 15px ;
+    font-family: "copperplate", "Courier New", monospace;
+    color: white;
+}
+h3 {
+  color: #fbeff1;
+  font-family: "monaco", "Courier New", monospace;
+  background-color: #3b4a8f;
+  border-radius: 20px;
+  word-spacing: 50px;
+
+}
+h1 {
+  color: white;
+  background-color: #2e3a70;
+  text-shadow: 1px 2px #41529f;
+  font-family: "copperplate", "Courier New", monospace;
+  border-radius: 20px;
+  padding: 20px;
+  font-size: 50px
+}
+  small {
+    font-family: "monaco", "Courier New", monospace;
+    color: #f3f4fa;
+    background-color: #aeb7de;
+    border-radius: 25px;
+    text-align: center;
+    padding: 5px;
+  }
+  footer{
+    padding: 7px;
+    text-align: center;
+  }
+  header {
+    text-align: center;
+  }
+  body {
+    background-color: #d6dbee;
+  }
+  img {
+    border-radius: 20px;
+  }
+  p {
+    font-family: "monaco", "Courier New", monospace;
+    color: #41529f;
+  }
+  h2 {
+    font-family: "copperplate", "Courier New", monospace;
+    color: #41529f;
+  }
